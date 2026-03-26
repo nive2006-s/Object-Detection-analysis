@@ -1,2 +1,3 @@
-# Object-Detection-analysis
-Performance analysis of Two stage detector faster rcnn
+## Models Implemented
+- Faster R-CNN (Object Detection)
+- VGG16 (Deep Learning Model)
